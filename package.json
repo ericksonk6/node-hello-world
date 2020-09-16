@@ -24,7 +24,5 @@
     "url": "https://github.com/ericksonk6/node-hello-world/issues"
   },
   "homepage": "https://github.com/ericksonk6/node-hello-world#readme",
-  "dependencies": {
-
-  }
+  "dependencies": {}
 }

@@ -17,5 +17,5 @@ server.listen(port, (err) => {
     if(err){
         return console.log('Something went wrong', err)
     }
-    console.log('Server Listening on: $port'); //took away brackets
+    console.log('Server Listening on: ${port}');
 });

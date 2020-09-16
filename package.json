@@ -16,7 +16,7 @@
     "url": "git+https://github.com/ericksonk6/node-hello-world.git"
   },
   "keywords": [
-    "nodejs"
+    "nodejs",
     "heroku"
   ],
   "author": "Kate Erickson",
